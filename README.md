@@ -1,2 +1,2 @@
 # Algorithms
-Different popular algorithms implemented using C
+Different popular algorithms implemented using C, C++
